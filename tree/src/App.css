@@ -1,0 +1,31 @@
+.shadow {
+  box-shadow: 0px 1px 5px .5px rgba(0,0,0,0.3);
+}
+
+.br-5 {
+  border-radius: 5px;
+}
+
+.btn {
+  padding: 5px;
+  width: 10%;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+
+.green {
+  color: white;
+  background: green;
+}
+
+.orange {
+  color: white;
+  background: orange;
+}
+
+.prop {
+  color: black;
+}
